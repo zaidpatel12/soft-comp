@@ -1,0 +1,2 @@
+# soft-comp
+paisa lagse 
